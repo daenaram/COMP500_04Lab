@@ -36,4 +36,5 @@ int main(){
 }
 
 // result 
-// You need to write a C program that asks the user to input three whole numbers. The program should then compute and output the biggest and smallest numbers among the three inputs.
+// You need to write a C program that asks the user to input three whole numbers. 
+// The program should then compute and output the biggest and smallest numbers among the three inputs.
