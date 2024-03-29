@@ -30,3 +30,6 @@ int main()
         printf("Student fails COMP500/ENSE501.");
     }
 }
+
+// result 
+// Course Result Evaluator
