@@ -19,7 +19,5 @@ int main() {
     return 0;
 }
 
-// result 
-// *** INSANITY *** 
-// kidding
+// result
 // Triangle Type Identifier
