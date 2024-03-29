@@ -1,4 +1,3 @@
-// DOESNT WORK
 #include <stdio.h>
 int main(void)
 {
@@ -17,12 +16,12 @@ int main(void)
         
     }
     
-    if (response =='y' || 'Y')
+    if (response =='y' || response == 'Y')
     {
     printf("Yes");
     }
     
-    else if (response =='n' || 'N')
+    else if (response =='n' || response == 'N')
     {
         printf("No");
     }
